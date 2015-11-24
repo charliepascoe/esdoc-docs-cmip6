@@ -16,19 +16,19 @@
     </keywords>
     <longName>SSP5-8.5 extension</longName>
     <meta ontologyTypeKey="cim.2.shared.DocMetaInfo">
-    <authorReference ontologyTypeKey="cim.2.shared.DocReference">
-        <uid>253825f3-fbc8-43fb-b1f6-cc575dc693eb</uid>
+        <authorReference ontologyTypeKey="cim.2.shared.DocReference">
+            <uid>253825f3-fbc8-43fb-b1f6-cc575dc693eb</uid>
+            <version>1</version>
+        </authorReference>
+        <createDate>2015-11-24 20:47:24.558038</createDate>
+        <id>33ffa3e6-8562-47dc-8e96-9d341772677a</id>
+        <institute>--</institute>
+        <language>en</language>
+        <project>cmip6-draft</project>
+        <source>spreadsheet</source>
+        <type>cim.2.designing.NumericalExperiment</type>
+        <updateDate>2015-11-24 20:47:24.558038</updateDate>
         <version>1</version>
-    </authorReference>
-    <createDate>2015-11-24 20:47:24.558038</createDate>
-    <id>33ffa3e6-8562-47dc-8e96-9d341772677a</id>
-    <institute>--</institute>
-    <language>en</language>
-    <project>cmip6-draft</project>
-    <source>spreadsheet</source>
-    <type>cim.2.designing.NumericalExperiment</type>
-    <updateDate>2015-11-24 20:47:24.558038</updateDate>
-    <version>1</version>
     </meta>
     <name>SSP5-85ext</name>
     <references>
